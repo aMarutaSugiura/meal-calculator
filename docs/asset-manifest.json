@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/meal-calculator.git/static/css/main.ae71d505.css",
-    "main.js": "/meal-calculator.git/static/js/main.51d249a8.js",
-    "static/js/787.f1692681.chunk.js": "/meal-calculator.git/static/js/787.f1692681.chunk.js",
-    "static/media/logo.svg": "/meal-calculator.git/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
-    "index.html": "/meal-calculator.git/index.html",
-    "main.ae71d505.css.map": "/meal-calculator.git/static/css/main.ae71d505.css.map",
-    "main.51d249a8.js.map": "/meal-calculator.git/static/js/main.51d249a8.js.map",
-    "787.f1692681.chunk.js.map": "/meal-calculator.git/static/js/787.f1692681.chunk.js.map"
+    "main.css": "/meal-calculator/static/css/main.ae71d505.css",
+    "main.js": "/meal-calculator/static/js/main.2b0153d2.js",
+    "static/js/787.f1692681.chunk.js": "/meal-calculator/static/js/787.f1692681.chunk.js",
+    "static/media/logo.svg": "/meal-calculator/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/meal-calculator/index.html",
+    "main.ae71d505.css.map": "/meal-calculator/static/css/main.ae71d505.css.map",
+    "main.2b0153d2.js.map": "/meal-calculator/static/js/main.2b0153d2.js.map",
+    "787.f1692681.chunk.js.map": "/meal-calculator/static/js/787.f1692681.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae71d505.css",
-    "static/js/main.51d249a8.js"
+    "static/js/main.2b0153d2.js"
   ]
 }

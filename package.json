@@ -1,7 +1,7 @@
 {
   "name": "meal-calculator",
   "version": "0.1.0",
-  "homepage": "https://aMarutaSugiura.github.io/meal-calculator.git",
+  "homepage": "https://aMarutaSugiura.github.io/meal-calculator",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",
